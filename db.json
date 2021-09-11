@@ -1,0 +1,86 @@
+{
+  "currentBalance": ["12000.00"],
+  "transactions": [
+    {
+      "transaction_id": "1234567",
+      "status": "success",
+      "direction": "out",
+      "amount": 500.00,
+      "datetime": "2021-07-11T20:43:00.000+03:00",
+      "title": "Оплата ADSL-доступа"
+    },
+    {
+      "transaction_id": "1234568",
+      "status": "success",
+      "direction": "in",
+      "amount": 300.00,
+      "datetime": "2021-07-10T20:43:00.000+03:00",
+      "title": "Пополнение счетa"
+    },
+    {
+      "transaction_id": "1234569",
+      "status": "success",
+      "direction": "out",
+      "amount": 1000.00,
+      "datetime": "2021-07-10T20:40:00.000+03:00",
+      "title": "Оплата мобильной связи"
+    },
+    {
+      "transaction_id": "1234570",
+      "status": "success",
+      "direction": "in",
+      "amount": 2000.00,
+      "datetime": "2021-07-9T20:40:00.000+03:00",
+      "title": "Перевод от абонента"
+    },
+    {
+      "transaction_id": "1234571",
+      "status": "success",
+      "direction": "out",
+      "amount": 700.00,
+      "datetime": "2021-07-1T20:40:00.000+03:00",
+      "title": "Оплата IP-Телефонии"
+    },
+    {
+      "transaction_id": "1234572",
+      "status": "success",
+      "direction": "out",
+      "amount": 900.00,
+      "datetime": "2021-06-25T20:40:00.000+03:00",
+      "title": "Оплата доступа к сети Интернет"
+    },
+    {
+      "transaction_id": "1234568",
+      "status": "success",
+      "direction": "in",
+      "amount": 5000.00,
+      "datetime": "2021-06-10T20:43:00.000+03:00",
+      "title": "Пополнение счетa"
+    },
+    {
+      "transaction_id": "1234562",
+      "status": "success",
+      "direction": "in",
+      "amount": 300.00,
+      "datetime": "2021-06-10T20:43:00.000+03:00",
+      "title": "Начисление бонусных баллов"
+    },
+    {
+      "transaction_id": "1234565",
+      "status": "success",
+      "pattern_id": "2901",
+      "direction": "out",
+      "datetime": "2021-06-10T20:43:00.000+03:00",
+      "title": "Оплата кабельного телевидения"
+    },
+    {
+      "transaction_id": "1234545",
+      "status": "success",
+      "pattern_id": "2901",
+      "direction": "out",
+      "datetime": "2021-06-10T20:43:00.000+03:00",
+      "title": "Услуги документальной электросвязи"
+    }
+  ]
+}
+
