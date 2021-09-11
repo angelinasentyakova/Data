@@ -68,7 +68,6 @@
     {
       "transaction_id": "1234565",
       "status": "success",
-      "pattern_id": "2901",
       "direction": "out",
       "datetime": "2021-06-10T20:43:00.000+03:00",
       "title": "Оплата кабельного телевидения"
@@ -76,7 +75,6 @@
     {
       "transaction_id": "1234545",
       "status": "success",
-      "pattern_id": "2901",
       "direction": "out",
       "datetime": "2021-06-10T20:43:00.000+03:00",
       "title": "Услуги документальной электросвязи"
