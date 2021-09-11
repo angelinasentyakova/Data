@@ -1,5 +1,5 @@
 {
-  "currentBalance": "12000.00",
+  "currentBalance": ["12000.00"],
   "transactions": [
     {
       "transaction_id": "1234567",
